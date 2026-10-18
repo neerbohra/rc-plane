@@ -3,6 +3,7 @@
 A small electric RC plane, sized with hand calculations, with its airfoil checked in CFD, designed in Fusion, and carrying my telemetry logger as a flight recorder.
 
 **Status:** planned for winter break (Dec 2026 - Jan 2027)
+
 **Skills:** aircraft sizing (lift equation, weight budget, centre of gravity), 2D airfoil CFD, Fusion, RC electronics (brushless motor, ESC, servos, radio), build and test
 
 ---
